@@ -7,13 +7,6 @@ import psycopg2
 
 llm = OllamaLLM(model="llama3.1")
 
-#db_host = '177.66.158.4'
-#db_port = '15445'
-#db_name = 'utfpr-dv'
-#db_user = 'utfpr'
-#db_password = 'utfprdv2023'
-#dialect = "postgresql"
-
 db_host = ''
 db_port = ''
 db_name = ''
